@@ -1,2 +1,2 @@
-# -SFSHEL
+# SFSHEL
 The code of SFSHEL
